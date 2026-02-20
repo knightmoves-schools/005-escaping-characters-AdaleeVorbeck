@@ -2,7 +2,7 @@
 public class Email
 {
     // Add your code here
-    public string introduction = "To whoever may read this, \n" +
+    public string Introduction = "To whoever may read this, \n" +
     "\tYou are in grave danger. \n" +
     "\"Things\" are most likly noticably different \n" +
     "The \'World\' is different \n \n" +
